@@ -1,0 +1,14 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.grid-container{
+    margin-left: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+}
+
